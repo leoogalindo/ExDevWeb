@@ -1,0 +1,16 @@
+.container{
+    height: 100px;
+    width: 250px;
+    display: block;
+}
+
+.container input{
+    width: 70px;
+    margin-bottom: 10px;
+}
+
+.container button{
+    height: 30px;
+    width: 70px;
+    margin-top: 10px;
+}
